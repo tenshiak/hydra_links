@@ -50,6 +50,12 @@
 "uploadDate": "2026-06-25"
 },
 {
+"title": "The Dark Pictures Anthology: The Devil in Me [B 11855829]",
+"fileSize": "40.1 GB",
+"uris": [],
+"uploadDate": "2026-06-25"
+},
+{
 "title": "Teardown [V 2.0.4]",
 "fileSize": "8.6 GB",
 "uris": [],
@@ -76,6 +82,12 @@
 {
 "title": "Retro Rewind - Video Store Simulator [B 23896268]",
 "fileSize": "2.08 GB",
+"uris": [],
+"uploadDate": "2026-06-25"
+},
+{
+"title": "Pseudoregalia [V 1.272]",
+"fileSize": "0.27 GB",
 "uris": [],
 "uploadDate": "2026-06-25"
 },
@@ -122,6 +134,18 @@
 "uploadDate": "2026-06-25"
 },
 {
+"title": "Forza Horizon 6 [V 382.893]",
+"fileSize": "144.6 GB",
+"uris": [],
+"uploadDate": "2026-06-25"
+},
+{
+"title": "Fears to Fathom - Scratch Creek [B 23905040]",
+"fileSize": "7 GB",
+"uris": [],
+"uploadDate": "2026-06-25"
+},
+{
 "title": "Farmer's Dynasty 2 [V 0.49.03]",
 "fileSize": "14.6 GB",
 "uris": [],
@@ -136,6 +160,12 @@
 {
 "title": "Escape from Duckov [V 2.3.17f2]",
 "fileSize": "1.4 GB",
+"uris": [],
+"uploadDate": "2026-06-25"
+},
+{
+"title": "Detention [1.0.0]",
+"fileSize": "0.72 GB",
 "uris": [],
 "uploadDate": "2026-06-25"
 },
@@ -644,12 +674,6 @@
 "uploadDate": "2026-06-21"
 },
 {
-"title": "Forza Horizon 6 [V 379.939]",
-"fileSize": "143.7 GB",
-"uris": [],
-"uploadDate": "2026-06-21"
-},
-{
 "title": "inZOI [V 0.9.1]",
 "fileSize": "33.3 GB",
 "uris": [],
@@ -1060,12 +1084,6 @@
 {
 "title": "Gunfire Reborn [B 23775002]",
 "fileSize": "4.4 GB",
-"uris": [],
-"uploadDate": "2026-06-17"
-},
-{
-"title": "Fears to Fathom - Scratch Creek [B 23772773]",
-"fileSize": "12 GB",
 "uris": [],
 "uploadDate": "2026-06-17"
 },
