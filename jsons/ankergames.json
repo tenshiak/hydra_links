@@ -80,7 +80,7 @@
 "uploadDate": "2026-07-03"
 },
 {
-"title": "MECCHA CHAMELEON [V 2.4.0]",
+"title": "MECCHA CHAMELEON [V 2.4.1]",
 "fileSize": "2.4 GB",
 "uris": [],
 "uploadDate": "2026-07-03"
@@ -92,8 +92,20 @@
 "uploadDate": "2026-07-03"
 },
 {
+"title": "Jump Space [V 0.7.15.8]",
+"fileSize": "10 GB",
+"uris": [],
+"uploadDate": "2026-07-03"
+},
+{
 "title": "Invincible VS [B 23995931]",
 "fileSize": "9.76 GB",
+"uris": [],
+"uploadDate": "2026-07-03"
+},
+{
+"title": "ICARUS [V 3.0.17.153756]",
+"fileSize": "41 GB",
 "uris": [],
 "uploadDate": "2026-07-03"
 },
@@ -116,8 +128,20 @@
 "uploadDate": "2026-07-03"
 },
 {
+"title": "GUILTY GEAR -STRIVE- [B 23538523]",
+"fileSize": "30.6 GB",
+"uris": [],
+"uploadDate": "2026-07-03"
+},
+{
 "title": "Escape from Duckov [V 2.3.30]",
 "fileSize": "1.38 GB",
+"uris": [],
+"uploadDate": "2026-07-03"
+},
+{
+"title": "ENDLESS Legend 2 [V 0.82.114-S35]",
+"fileSize": "8.9 GB",
 "uris": [],
 "uploadDate": "2026-07-03"
 },
@@ -128,8 +152,20 @@
 "uploadDate": "2026-07-03"
 },
 {
+"title": "Demonologist [V 2.1.4]",
+"fileSize": "31.5 GB",
+"uris": [],
+"uploadDate": "2026-07-03"
+},
+{
 "title": "Crusaders Quest : Hero Town [V 2.1.0]",
 "fileSize": "0.58 GB",
+"uris": [],
+"uploadDate": "2026-07-03"
+},
+{
+"title": "Coral Island [V 1.3-1248]",
+"fileSize": "13.4 GB",
 "uris": [],
 "uploadDate": "2026-07-03"
 },
@@ -280,18 +316,6 @@
 {
 "title": "Elsie [B 23999721]",
 "fileSize": "0.91 GB",
-"uris": [],
-"uploadDate": "2026-07-02"
-},
-{
-"title": "ENDLESS Legend 2 [V 0.82.104-S35]",
-"fileSize": "9.19 GB",
-"uris": [],
-"uploadDate": "2026-07-02"
-},
-{
-"title": "Demonologist [V 2.1.4]",
-"fileSize": "31.5 GB",
 "uris": [],
 "uploadDate": "2026-07-02"
 },
@@ -460,12 +484,6 @@
 {
 "title": "Left 4 Dead 2 [B 23990068]",
 "fileSize": "15.4 GB",
-"uris": [],
-"uploadDate": "2026-07-01"
-},
-{
-"title": "Jump Space [V 0.7.15.6]",
-"fileSize": "11.7 GB",
 "uris": [],
 "uploadDate": "2026-07-01"
 },
@@ -718,12 +736,6 @@
 {
 "title": "Killer Bean [V 0061]",
 "fileSize": "12.6 GB",
-"uris": [],
-"uploadDate": "2026-06-30"
-},
-{
-"title": "ICARUS [V 3.0.16.153192]",
-"fileSize": "41.4 GB",
 "uris": [],
 "uploadDate": "2026-06-30"
 },
@@ -1924,12 +1936,6 @@
 {
 "title": "Cruelty Squad [B 13357464]",
 "fileSize": "484.3 MB",
-"uris": [],
-"uploadDate": "2026-06-18"
-},
-{
-"title": "Coral Island [V 1.3]",
-"fileSize": "13.6 GB",
 "uris": [],
 "uploadDate": "2026-06-18"
 },
@@ -4090,12 +4096,6 @@
 {
 "title": "PRAGMATA [B 22357085]",
 "fileSize": "34.19 GB",
-"uris": [],
-"uploadDate": "2026-05-14"
-},
-{
-"title": "GUILTY GEAR -STRIVE- [V 2.01]",
-"fileSize": "31.1 GB",
 "uris": [],
 "uploadDate": "2026-05-14"
 },
