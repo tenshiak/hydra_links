@@ -14,7 +14,7 @@
 "uploadDate": "2026-07-09"
 },
 {
-"title": "Supermarket Chaos [V 1.1.0]",
+"title": "Supermarket Chaos [V 1.1.1]",
 "fileSize": "0.84 GB",
 "uris": [],
 "uploadDate": "2026-07-09"
@@ -38,8 +38,32 @@
 "uploadDate": "2026-07-09"
 },
 {
+"title": "Marvel’s Spider-Man Remastered [V 4.0630.0]",
+"fileSize": "69.2 GB",
+"uris": [],
+"uploadDate": "2026-07-09"
+},
+{
+"title": "Marvel’s Spider-Man Miles Morales [V 4.630.0.0]",
+"fileSize": "49.9 GB",
+"uris": [],
+"uploadDate": "2026-07-09"
+},
+{
 "title": "MOUSE: P.I. For Hire [V 1.2.1.8683.3c36046]",
 "fileSize": "8.27 GB",
+"uris": [],
+"uploadDate": "2026-07-09"
+},
+{
+"title": "Granblue Fantasy Relink [V 2.0.2]",
+"fileSize": "99.3 GB",
+"uris": [],
+"uploadDate": "2026-07-09"
+},
+{
+"title": "Going Medieval [V 1.1.7]",
+"fileSize": "0.69 GB",
 "uris": [],
 "uploadDate": "2026-07-09"
 },
@@ -70,6 +94,18 @@
 {
 "title": "Dead as Disco [V 0.1.1 71]",
 "fileSize": "5.7 GB",
+"uris": [],
+"uploadDate": "2026-07-09"
+},
+{
+"title": "DRAGON BALL XENOVERSE 2 [V 1.26.00]",
+"fileSize": "28.3 GB",
+"uris": [],
+"uploadDate": "2026-07-09"
+},
+{
+"title": "DELTARUNE [V22]",
+"fileSize": "0.79 GB",
 "uris": [],
 "uploadDate": "2026-07-09"
 },
@@ -1040,12 +1076,6 @@
 "uploadDate": "2026-07-01"
 },
 {
-"title": "DELTARUNE [V22]",
-"fileSize": "0.79 GB",
-"uris": [],
-"uploadDate": "2026-07-01"
-},
-{
 "title": "Clair Obscur: Expedition 33 [V 68322]",
 "fileSize": "42.9 GB",
 "uris": [],
@@ -1522,12 +1552,6 @@
 {
 "title": "JDM: Japanese Drift Master [B 23818333]",
 "fileSize": "20.6 GB",
-"uris": [],
-"uploadDate": "2026-06-27"
-},
-{
-"title": "Going Medieval [V 1.0.105]",
-"fileSize": "0.68 GB",
 "uris": [],
 "uploadDate": "2026-06-27"
 },
@@ -4520,12 +4544,6 @@
 "uploadDate": "2026-05-06"
 },
 {
-"title": "DRAGON BALL XENOVERSE 2 [V 1.25.02]",
-"fileSize": "28.3 GB",
-"uris": [],
-"uploadDate": "2026-05-06"
-},
-{
 "title": "Wicked Seed [B 23091950]",
 "fileSize": "26.5 GB",
 "uris": [],
@@ -7088,12 +7106,6 @@
 "uploadDate": "2026-03-14"
 },
 {
-"title": "Granblue Fantasy Relink [V 1.3.2]",
-"fileSize": "62.7 GB",
-"uris": [],
-"uploadDate": "2026-03-14"
-},
-{
 "title": "Ghostwire: Tokyo [B 13890751]",
 "fileSize": "22.9 GB",
 "uris": [],
@@ -8690,12 +8702,6 @@
 "uploadDate": "2026-03-06"
 },
 {
-"title": "Marvel’s Spider-Man Miles Morales [V 3.617.1.0]",
-"fileSize": "48.5 GB",
-"uris": [],
-"uploadDate": "2026-03-06"
-},
-{
 "title": "Lunacid [V 2.1.5]",
 "fileSize": "742.3 MB",
 "uris": [],
@@ -9022,12 +9028,6 @@
 {
 "title": "My Summer Car [V 250908-04]",
 "fileSize": "358.9 MB",
-"uris": [],
-"uploadDate": "2026-03-04"
-},
-{
-"title": "Marvel’s Spider-Man Remastered [V 3.618.0.0]",
-"fileSize": "68.0 GB",
 "uris": [],
 "uploadDate": "2026-03-04"
 },
