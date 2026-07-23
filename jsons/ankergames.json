@@ -50,7 +50,7 @@
 "uploadDate": "2026-07-23"
 },
 {
-"title": "MindsEye [B 24289220]",
+"title": "MindsEye [V 8027639]",
 "fileSize": "47.8 GB",
 "uris": [],
 "uploadDate": "2026-07-23"
@@ -76,6 +76,12 @@
 {
 "title": "Farmer's Dynasty 2 [V 0.49.06]",
 "fileSize": "15.2 GB",
+"uris": [],
+"uploadDate": "2026-07-23"
+},
+{
+"title": "FATAL FURY: City of the Wolves [V 3.0.0]",
+"fileSize": "31 GB",
 "uris": [],
 "uploadDate": "2026-07-23"
 },
@@ -2230,12 +2236,6 @@
 {
 "title": "Far Cry 3 [V 1.06]",
 "fileSize": "6.8 GB",
-"uris": [],
-"uploadDate": "2026-06-29"
-},
-{
-"title": "FATAL FURY: City of the Wolves [V 2.2.0]",
-"fileSize": "30.2 GB",
 "uris": [],
 "uploadDate": "2026-06-29"
 },
